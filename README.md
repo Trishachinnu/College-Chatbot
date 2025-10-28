@@ -1,4 +1,4 @@
-# 🎓 College Chatbot – Coorg Institute of Technology (CIT)
+# 🎓 College Chatbot 
 
 An interactive **College Chatbot** built using **HTML, CSS, and JavaScript** that helps students and visitors quickly get information about **Admissions, Courses, Placements, Fees, Facilities, Faculty, Scholarships, and more**.  
 This project was developed as part of a college web enhancement initiative.
