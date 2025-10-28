@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CIT Chatbot Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Chatbot Container -->
+  <div id="chatbot-container" class="chatbot-container hidden">
+    <div class="chatbot-header">
+      <div class="chatbot-header-left">
+        <div class="bot-icon">🤖</div>
+        <div>
+          <h3>CIT Assistant</h3>
+          <p><span class="status-dot"></span> Online • Ready to help</p>
+        </div>
+      </div>
+      <button id="minimize-btn" title="Minimize">−</button>
+    </div>
+
+    <div id="chatbot-messages" class="chatbot-messages"></div>
+
+    <div class="chatbot-input">
+      <input type="text" id="user-input" placeholder="Type your question here..." />
+      <button id="send-btn">➤</button>
+    </div>
+  </div>
+
+  <!-- Floating Button -->
+  <button id="chatbot-toggle" class="chatbot-toggle" title="Chat with CIT Assistant">🤖</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
