@@ -62,7 +62,7 @@ college-chatbot/
 
 🧑‍💻 Developed By
 
-Yogeshwari Gowda
-Student of Coorg Institute of Technology (CIT)
-📧 Email: yogeshwarisgowda@gmail.com
+  * Yogeshwari Gowda 
+  * Student of Coorg Institute of Technology (CIT)
+  * 📧 Email: yogeshwarisgowda@gmail.com
 
